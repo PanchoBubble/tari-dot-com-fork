@@ -500,11 +500,11 @@ lottie-player {
 }
 #viewport #social ul,
 #viewport #mobileSocial ul {
-  margin: 0 0 0 calc(3.4 * var(--root-size));
   padding: 0;
   list-style: none;
   display: flex;
   justify-content: space-around;
+  margin-left: 0 !important;
   align-items: center;
 }
 #viewport #social ul li,
@@ -530,6 +530,11 @@ lottie-player {
 #viewport #mobileSocial ul li a[href*='facebook'] {
   background-image: url('../img/social-facebook.svg');
   width: calc(1.4 * var(--root-size));
+}
+#viewport #social ul li a[href*='tiktok'],
+#viewport #mobileSocial ul li a[href*='tiktok'] {
+  background-image: url('../img/social-tiktok.svg');
+  width: calc(2.5 * var(--root-size));
 }
 #viewport #social ul li a[href*='instagram'],
 #viewport #mobileSocial ul li a[href*='instagram'] {
@@ -573,7 +578,7 @@ lottie-player {
   width: calc(3.1 * var(--root-size));
 }
 #viewport #mobileSocial ul {
-  margin: 0 0 0 calc(2 * var(--root-size));
+  margin-left: 0 !important;
 }
 #viewport section.main {
   width: 100%;
