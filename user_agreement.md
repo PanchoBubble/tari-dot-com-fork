@@ -28,6 +28,7 @@ THIS AGREEMENT CONTAINS AN ARBITRATION PROVISION. IF YOU ARE A U.S. PERSON, ALL 
 * [14. Miscellaneous](#14-miscellaneous)
 * [15. Dispute resolution for United States users](#15-dispute-resolution-for-united-states-users)
 * [16. Dispute resolution for non-US users](#16-dispute-resolution-for-non-us-users)
+* [17. License](/license)
 
 
 ## 1. GENERAL USE
