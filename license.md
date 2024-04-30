@@ -6,7 +6,7 @@ class: subpage license
 ---
 Last Modified: April 30, 2024
 
-# Tari Labs Privacy Policy
+# Tari Labs License
 
 **Enhanced Common Public Attribution License Version 1.0**
 
