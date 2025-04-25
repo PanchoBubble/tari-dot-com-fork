@@ -4,7 +4,7 @@ title: Tari | User Agreement
 permalink: /user_agreement/
 class: subpage user_agreement
 ---
-Last updated: 25 April 2025
+Last updated: 23 April 2025
 
 # Tari User Agreement
 
