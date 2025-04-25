@@ -4,11 +4,11 @@ title: Tari | Privacy Policy
 permalink: /privacy_policy/
 class: subpage privacy_policy
 ---
-Last Modified: March 20, 2020
+Last Modified: April 25, 2025
 
 # Tari Labs Privacy Policy
 
-Tari Labs (&quot;Company&quot;, &quot;we&quot;, &quot;our&quot;, or &quot;us&quot;) recognizes that people who use our website and/or mobile applications (collectively, the &quot;Services&quot;) value their privacy. This privacy policy (the &quot;Policy&quot;) describes how the Services made available by Tari Labs collect, use, share, and store personal information of users of the Services. This Policy applies to the Services on or in which it is posted, linked, or referenced.
+Tari Labs ("Company", "we", "our", or "us") recognizes that people who use our website and/or mobile applications (collectively, the "Services") value their privacy. This privacy policy (the "Policy") describes how the Services made available by Tari Labs collect, use, share, and store personal information of users of the Services. This Policy applies to the Services on or in which it is posted, linked, or referenced.
 
 By using the Services, you accept the terms of this Policy and consent to our collection, use, disclosure, and retention of your information as described in this Policy.  If you have not done so already, please also review our User Agreement, which governs your use of the Services. The User Agreement  contains provisions that limit our liability to you and require you to resolve any dispute with us via arbitration on an individual basis and not as part of any class or representative action. IF YOU DO NOT AGREE WITH ANY PART OF THIS PRIVACY POLICY OR OUR USER AGREEMENT, THEN PLEASE DO NOT USE ANY OF THE SERVICES.
 
@@ -101,10 +101,10 @@ We may share information with those who need it to do work for us. These recipie
 
 We will obtain consent for such sharing with service providers where legally required. We enter into written agreements with these third-party service providers requiring them to provide the same level of protection for your personal information as provided under this Policy and limiting their use of your personal information to the specified services provided on our behalf. Such service providers include:
 
-- _Shopify._ We use Shopify&#39;s e-commerce platform to facilitate your purchases made from our website. Shopify stores your data on a secure server behind a firewall and encrypts your credit/debit card information in compliance with PCI DSS standards. You can review Shopify&#39;s privacy policy at [shopify.com/legal/privacy](http://www.shopify.com/legal/privacy). Shopify is certified under the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield.
-- _Substack_.  We use Substack to send newsletters and related communications when you sign up for a newsletter subscription. You can review Substack&#39;s privacy policy at [https://substack.com/privacy](https://substack.com/privacy).
-- _Twilio_.  We use Twilio to send SMS/text messages when you sign up for SMS notifications.  You can review Twilio&#39;s privacy policy at [https://www.twilio.com/legal/privacy](https://www.twilio.com/legal/privacy).  Twilio is certified under the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield.
-- _Matoma_.  We use Matoma to track usage of the Services. You can review Matoma&#39;s privacy policy at [https://matomo.org/privacy-policy/](https://matomo.org/privacy-policy/).
+- _Shopify._ We use Shopify's e-commerce platform to facilitate your purchases made from our website. Shopify stores your data on a secure server behind a firewall and encrypts your credit/debit card information in compliance with PCI DSS standards. You can review Shopify's privacy policy at [shopify.com/legal/privacy](http://www.shopify.com/legal/privacy). Shopify is certified under the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield.
+- _Substack_.  We use Substack to send newsletters and related communications when you sign up for a newsletter subscription. You can review Substack's privacy policy at [https://substack.com/privacy](https://substack.com/privacy).
+- _Twilio_.  We use Twilio to send SMS/text messages when you sign up for SMS notifications.  You can review Twilio's privacy policy at [https://www.twilio.com/legal/privacy](https://www.twilio.com/legal/privacy).  Twilio is certified under the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield.
+- _Matoma_.  We use Matoma to track usage of the Services. You can review Matoma's privacy policy at [https://matomo.org/privacy-policy/](https://matomo.org/privacy-policy/).
 
 ### Other
 
@@ -162,7 +162,7 @@ Any modifications to this Privacy Policy will be effective upon our posting of t
 
 ## ELIGIBILITY
 
-If you are under the age of majority in your jurisdiction of residence, you may use the Services only with the consent of or under the supervision of your parent or legal guardian. Consistent with the requirements of the Children&#39;s Online Privacy Protection Act (COPPA), if we learn that we have received any information directly from a child under age 13 without first receiving his or her parent&#39;s verified consent, we will use that information only to respond directly to that child (or his or her parent or legal guardian) to inform the child that he or she cannot use the Site and subsequently we will delete that information.
+If you are under the age of majority in your jurisdiction of residence, you may use the Services only with the consent of or under the supervision of your parent or legal guardian. Consistent with the requirements of the Children's Online Privacy Protection Act (COPPA), if we learn that we have received any information directly from a child under age 13 without first receiving his or her parent's verified consent, we will use that information only to respond directly to that child (or his or her parent or legal guardian) to inform the child that he or she cannot use the Site and subsequently we will delete that information.
 
 
 
@@ -176,7 +176,7 @@ Under California Civil Code Section 1789.3, California users are entitled to the
 
 ### Personal Information
 
-With respect to EU data subjects, &quot;personal information,&quot; as used in this Privacy Policy, is equivalent to &quot;personal information&quot; as defined in the European Union General Data Protection Regulation (GDPR).
+With respect to EU data subjects, "personal information," as used in this Privacy Policy, is equivalent to "personal information" as defined in the European Union General Data Protection Regulation (GDPR).
 
 ### Sensitive Data
 
@@ -201,7 +201,7 @@ We uses the collected data for various purposes:
 
 ### Legal basis for processing personal information under the General Data Protection Regulation (GDPR)
 
-If you are from the European Economic Area (EEA), Tari Labs&#39; legal basis for collecting and using the personal information described in this Privacy Policy depends on the information we collect and the specific context in which we collect it.
+If you are from the European Economic Area (EEA), Tari Labs' legal basis for collecting and using the personal information described in this Privacy Policy depends on the information we collect and the specific context in which we collect it.
 
 Tari Labs may process your personal information because:
 
